@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="16" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="land" tilewidth="32" tileheight="32">
+  <image source="map_tiles.png" width="128" height="160"/>
+ </tileset>
+ <tileset firstgid="21" name="TreeMount" tilewidth="64" tileheight="64">
+  <image source="mount_tree.png" width="192" height="128"/>
+ </tileset>
+ <tileset firstgid="27" name="bridge" tilewidth="32" tileheight="32">
+  <image source="bridge.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="28" name="house" tilewidth="32" tileheight="32">
+  <image source="house.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="29" name="tower_evil" tilewidth="32" tileheight="64">
+  <image source="tower_evil.png" width="32" height="64"/>
+ </tileset>
+ <tileset firstgid="30" name="castle" tilewidth="128" tileheight="128">
+  <image source="castle.png" width="128" height="128"/>
+ </tileset>
+ <layer name="meadow" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJwTYWBgECES85OgdjDpFwRiASAWGmLuHtU/qp8a+vFhAIQ9E7I=
+  </data>
+ </layer>
+ <layer name="mountainsAndTrees" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAMSBCBkYEoEmbAIk8soJZ+UbyqSNePz9/E6sdlnxgO/eJE6qfUfmL1YzODVP3o4YgrPPHFnyQeN5Ea/8S6fyD0k4tBAAB6PAbp
+  </data>
+ </layer>
+ <layer name="bridge" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg6QHqgHTAKRsEwAwBd3AAc
+  </data>
+ </layer>
+ <layer name="buildings" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAIyA+2AUUB1IItHTo5urqAeAAB6mABY
+  </data>
+ </layer>
+</map>

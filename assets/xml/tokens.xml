@@ -1,0 +1,20 @@
+<token_list>
+		
+			<token id='6' name='Acolyte' attack='1' defense='3' image='acolyte.png' element='0' directions='0,1,0,1,0,0'></token>
+			<token id='7' name='Acolyte' attack='1' defense='3' image='acolyte_girl.png' element='0' directions='0,1,0,1,0,0'></token>
+			<token id='17' name='Bat' attack='4' defense='3' image='bat.png' element='0' directions='0,0,0,1,1,1'></token>
+			<token id='16' name='Glop' attack='2' defense='3' image='glop.png' element='0' directions='0,1,0,0,0,0'></token>
+			<token id='15' name='Slime' attack='2' defense='1' image='slime.png' element='0' directions='1,0,0,0,0,0'></token>
+			<token id='9' name='Squire' attack='3' defense='2' image='squire_girl.png' element='0' directions='1,1,0,1,1,0'></token>
+			<token id='8' name='Squire' attack='3' defense='2' image='squire.png' element='0' directions='1,1,0,1,1,0'></token>
+			<token id='12' name='Earth Elemental' attack='6' defense='6' image='earth_elemental.png' element='4' directions='0,1,1,1,0,0'></token>
+			<token id='11' name='Fire Elemental' attack='6' defense='5' image='fire_elemental.png' element='2' directions='1,0,1,0,1,0'></token>
+			<token id='14' name='Water Elemental' attack='5' defense='5' image='water_elemental.png' element='1' directions='0,1,0,1,1,0'></token>
+			<token id='13' name='Wind Elemental' attack='4' defense='6' image='wind_elemental.png' element='3' directions='1,0,0,1,0,0'></token>
+			<token id='2' name='Dark Knight' attack='7' defense='4' image='dark_knight.png' element='0' directions='1,0,1,0,0,1'></token>
+			<token id='10' name='Winged Devil' attack='8' defense='6' image='devil_winged.png' element='0' directions='1,1,0,1,1,1'></token>
+			<token id='4' name='Divine Knight' attack='9' defense='9' image='divine_knight_girl.png' element='0' directions='1,1,1,1,1,1'></token>
+			<token id='1' name='Divine Knight' attack='9' defense='9' image='divine_knight.png' element='0' directions='1,1,1,1,1,1'></token>
+			<token id='5' name='Pacifist' attack='9' defense='9' image='pacifist_woman.png' element='0' directions='0,0,0,0,0,0'></token>
+			<token id='3' name='Pacifist' attack='9' defense='9' image='pacfist.png' element='0' directions='0,0,0,0,0,0'></token>
+	  </token_list>
